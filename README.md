@@ -30,7 +30,7 @@ npm run dev         # http://localhost:3000/health
 `npm run test:integration` (PostgreSQL requis) sera utilisé à partir de la séance 2.
 `Dockerfile` volontairement naïf : il sera amélioré en séance 3.
 
-## Les routes de l'API
+## Les différentes routes de l'API
 
 L'API écoute sur le port `3000` par défaut. Les corps de requête et de réponse sont en JSON.
 
