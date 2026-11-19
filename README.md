@@ -137,6 +137,7 @@ ShipIt est un support de cours, pas une application de production :
 
 ## Contenu du dépôt
 
+
 | Chemin               | Rôle                                                                                                                                                                      | Séance |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | `src/`               | L'application (`app.ts` : routes ; `tasks.ts` : stockage en mémoire ; `pg-tasks.ts` : stockage PostgreSQL ; `server.ts` : démarrage) et ses tests unitaires (`*.test.ts`) | 1      |
